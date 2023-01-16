@@ -1,0 +1,537 @@
+.titanic{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/titanic.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.superman{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/steel.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.greenland{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/greenland.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+
+
+.tenet{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/tenet.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+
+.extraction{
+height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/extraction.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+
+.lost{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/lost.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.bossBaby{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/bossBaby2.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.captain{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/captainUnderPants2.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+
+.next{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/nextGen.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.lego{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/lego.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+
+.superBad{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/superBad.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.jump21{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/jump21.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.hangOver{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/hangover.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.borat{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/borat.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.virgin{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/virgin.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.underground{
+height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/underground6.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.ipMan{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/ipMan.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+
+.blackPanter{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/blackPanter.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+.casino{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/casinoRoyal.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+
+.venom{
+    height: 100vmin;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     cursor: pointer;
+     background-image: url('../img/wonderWomen.jpg');
+     background-repeat: no-repeat;
+     background-attachment: relative;
+     background-position: center;
+     background-size: 100% 100%;
+  
+}
+
+
+
+ .mainText_hw{
+
+
+
+    height: 50vmin;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+  
+} 
+
+ .mainText_title{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 4vmin;
+}
+.mainText_year{
+    height: 10%;
+    width: 100%;
+    font-size: 2.7vmin;
+
+}
+.paragraphText{
+    height:40%;
+    width: 100%;
+
+font-size: 2.2vmin;
+
+
+} 
+
+.mainText_hw p{
+    font-size: 2vmin;
+}
+
+.mainText_hw  a{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    text-decoration: none;
+    background-color: #3333ff;
+    color: white;
+    width: 20vmin;
+    padding: 7px;
+    font-size: 2vmin;
+}
+.mainText_hw a:hover{
+    text-decoration: none;
+    transition: 750ms;
+    background-color: white;
+    color: #3333ff;
+    transform: scale(.93);
+
+}
+
+
+@media only screen and (max-width: 992px) {
+
+    .mainText_hw {
+        height: 50vmin;
+        width: 70%;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        /* border: 1px solid red; */
+
+    }
+
+
+}
+
+
+
+
+
+
+
+  @media only screen and (max-width: 768px) {
+
+    .mainText_hw{
+        height: 60vmin;
+        width: 75%;
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        /* border: 1px solid red; */
+      
+    }
+
+
+         .mainText_title {
+             height: 10%;
+             width: 100%;
+             display: flex;
+             align-items: center;
+             justify-content: flex-start;
+             font-size: 4vmin;
+         }
+    
+         .mainText_year {
+             height: 10%;
+             width: 100%;
+             font-size: 3vmin;
+    
+         }
+    
+         .paragraphText {
+             height: 40%;
+             width: 100%;
+    
+             font-size: 2.2vmin;
+    
+    
+         }
+    
+         .mainText_hw p {
+             font-size: 2.4vmin;
+         }
+    
+         .mainText_hw a {
+    
+             display: flex;
+             align-items: center;
+             justify-content: center;
+             border-radius: 6px;
+             text-decoration: none;
+             background-color: #3333ff;
+             color: white;
+             width: 25vmin;
+             padding: 7px;
+             font-size: 2.2vmin;
+         }
+
+
+  }
+
+
+
+
+        @media only screen and (max-width: 600px) {
+    
+            .mainText_hw {
+                height: 60vmin;
+                width:80%;
+    
+                display: flex;
+                flex-direction: column;
+                justify-content: space-around;
+                /* border: 1px solid red; */
+    
+            }
+    
+    
+            .mainText_title {
+                height: 10%;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: flex-start;
+                font-size: 4.3vmin;
+            }
+    
+            .mainText_year {
+                height: 10%;
+                width: 100%;
+                font-size: 3.3vmin;
+    
+            }
+    
+            .paragraphText {
+                height: 40%;
+                width: 100%;
+    
+                font-size: 2.8vmin;
+    
+    
+            }
+    
+            .mainText_hw p {
+                font-size: 3vmin;
+            }
+    
+            .mainText_hw a {
+    
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 6px;
+                text-decoration: none;
+                background-color: #3333ff;
+                color: white;
+                width: 20vmin;
+                padding: 6px;
+                font-size: 2.4vmin;
+            }
+    
+    
+        }
+
