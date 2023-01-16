@@ -303,7 +303,7 @@ img{
 
 
         .form button {
-            height: 5vmin;
+            height: 6vmin;
             width: 20vmin;
             border-radius: 6px;
     font-size: 2.1vmin;
@@ -371,7 +371,7 @@ img{
         .emptyDiv a {
             text-decoration: none;
             font-size: 2.1vmin;
-            height: 5vmin;
+            height: 6vmin;
             padding: 6px;
             width: 25vmin;
             border-radius: 6px;
@@ -415,6 +415,8 @@ img{
     }
 
 
+
+
         .form {
             width:80%;
             height: 6vmin;
@@ -425,8 +427,16 @@ img{
         }
 
 
+                input[type="text"] {
+                    height: 6.5vmin;
+                    border-radius: 6px;
+                    width: 60%;
+        
+                }
+
+
     .form button {
-        height: 5vmin;
+        height: 7vmin;
         width: 20vmin;
         border-radius: 6px;
         font-size: 2.25vmin;
@@ -494,8 +504,8 @@ img{
     .emptyDiv a {
         text-decoration: none;
         font-size: 2.3vmin;
-        height: 5vmin;
-        padding: 6px;
+        height: 7vmin;
+        padding: 6.5px;
         width: 25vmin;
         border-radius: 6px;
         display: flex;
