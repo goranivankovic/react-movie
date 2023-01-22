@@ -1,3 +1,6 @@
+
+
+
 .titanic{
     height: 100vmin;
     width: 100%;
@@ -531,7 +534,287 @@ font-size: 2.2vmin;
                 padding: 6px;
                 font-size: 2.4vmin;
             }
-    
+
+
+
+
+
+            /* Movies height */
+
+
+
+
+
+
+
+                        .titanic {
+                        height: 125vmin;
+            
+                        }
+            
+                        .superman {
+                            height: 125vmin;
+            
+                        }
+            
+                        .greenland {
+                        height: 125vmin;
+                        }
+            
+            
+            
+                        .tenet {
+                          
+                            height: 125vmin;
+            
+                        }
+            
+            
+                        .extraction {
+                        height: 125vmin;
+            
+                        }
+            
+            
+                        .lost {
+                        height: 125vmin;
+            
+                        }
+            
+                        .bossBaby {
+                        height: 125vmin;
+            
+                        }
+            
+                        .captain {
+                            height: 125vmin;
+                       
+            
+                        }
+            
+            
+                        .next {
+
+                            height: 125vmin;
+                         
+            
+                        }
+            
+                        .lego {
+
+                            height: 125vmin;
+                       
+            
+                        }
+            
+            
+                        .superBad {
+
+                            height: 125vmin;
+            
+                        }
+            
+                        .jump21 {
+                           height: 125vmin;
+            
+                        }
+            
+                        .hangOver {
+
+                            height: 125vmin;
+                          
+                           
+            
+                        }
+            
+                        .borat {
+                            height: 125vmin;
+                     
+            
+                        }
+            
+                        .virgin {
+                            height: 125vmin;
+                        
+            
+                        }
+            
+                        .underground {
+                            height: 125vmin;
+                        
+            
+                        }
+            
+                        .ipMan {
+                            height: 125vmin;
+                         
+            
+                        }
+            
+            
+                        .blackPanter {
+                            height: 125vmin;
+                           
+            
+                        }
+            
+                        .casino {
+                            height: 125vmin;
+                          
+            
+                        }
+            
+            
+                        .venom {
+                            height: 125vmin;
+                       
+                        }
+
+
+
+
+
+                   
+
+                   
     
         }
 
+
+
+                                @media only screen and (max-width: 500px) {
+
+
+
+
+                                    .titanic {
+                                            height: 150vmin;
+                                    
+                                        }
+                                    
+                                        .superman {
+                                            height: 150vmin;
+                                    
+                                        }
+                                    
+                                        .greenland {
+                                            height: 150vmin;
+                                        }
+                                    
+                                    
+                                    
+                                        .tenet {
+                                    
+                                            height: 150vmin;
+                                    
+                                        }
+                                    
+                                    
+                                        .extraction {
+                                            height: 150vmin;
+                                    
+                                        }
+                                    
+                                    
+                                        .lost {
+                                            height: 150vmin;
+                                    
+                                        }
+                                    
+                                        .bossBaby {
+                                        height: 150vmin;
+                                    
+                                        }
+                                    
+                                        .captain {
+                                            height: 150vmin;
+                                    
+                                    
+                                        }
+                                    
+                                    
+                                        .next {
+                                    
+                                            height: 150vmin;
+                                    
+                                    
+                                        }
+                                    
+                                        .lego {
+                                    
+                                        height: 150vmin;
+                                    
+                                    
+                                        }
+                                    
+                                    
+                                        .superBad {
+                                    
+                                            height: 150vmin;
+                                    
+                                        }
+                                    
+                                        .jump21 {
+                                        height: 150vmin;
+                                    
+                                        }
+                                    
+                                        .hangOver {
+                                    
+                                        height: 150vmin;
+                                    
+                                    
+                                    
+                                        }
+                                    
+                                        .borat {
+                                            height: 150vmin;
+                                    
+                                    
+                                        }
+                                    
+                                        .virgin {
+                                        height: 150vmin;
+                                    
+                                    
+                                        }
+                                    
+                                        .underground {
+                                            height: 150vmin;
+                                    
+                                    
+                                        }
+                                    
+                                        .ipMan {
+                                            height: 150vmin;
+                                    
+                                    
+                                        }
+                                    
+                                    
+                                        .blackPanter {
+                                            height: 150vmin;
+                                    
+                                    
+                                        }
+                                    
+                                        .casino {
+                                            height: 150vmin;
+                                    
+                                    
+                                        }
+                                    
+                                    
+                                        .venom {
+                                        height: 150vmin;
+                                    
+                                        }
+
+
+                                
+
+
+
+
+                                }
+                    
