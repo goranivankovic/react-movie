@@ -32,6 +32,8 @@ export default class Virgin40 extends Component {
          
 
             <div className={allStyles.virgin}>
+
+                   <div className={allStyles.emptyDiv}></div>
        
                     <div className={allStyles.mainText_hw}>
 
@@ -53,7 +55,7 @@ export default class Virgin40 extends Component {
                          <Link to="/">Go Back</Link>
     
                     </div>
-                
+                   <div className={allStyles.emptyDiv}></div>
 
         </div>
 

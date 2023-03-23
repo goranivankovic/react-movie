@@ -23,6 +23,9 @@ export default class Jump21 extends Component {
             
 
             <div className={allStyles.jump21}>
+
+                 <div className={allStyles.emptyDiv}></div>
+                 
     
                     <div className={allStyles.mainText_hw}>
 
@@ -47,7 +50,7 @@ export default class Jump21 extends Component {
        
     
                     </div>
-                
+                    <div className={allStyles.emptyDiv}></div>
 
         </div>
 

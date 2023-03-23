@@ -19,8 +19,8 @@ function Footer() {
           <div>Football Data</div>
           <div>The WC-API</div>
           <div>All football Data</div>
-          <div>30 Day Kick Start Plan</div>
-          <div>Our documentation</div>
+          <div>30 Day Kick Start</div>
+          <div>Documentation</div>
 
       </div>
 
@@ -32,15 +32,15 @@ function Footer() {
          <div>Stadium/Attendance</div>
         <div>Finals/Results</div>
         <div>Date/Time</div>
-        <div>2000 Requests/Per day</div>
+        <div>2000 Requests</div>
           
           </div>
 
           <div className={footerStyle.firstDiv_first_row}>
-          <div className={footerStyle.firstDiv_first_row_headline }>CONTACT US</div>
+          <div className={footerStyle.firstDiv_first_row_headline }>CONTACT</div>
 
           
-          <div>footballapiuk@gmail.com</div>
+          <div>football@gmail.com</div>
           <div>Support Centre</div>
           <div>Github Support </div>
           <div>Google Support </div>

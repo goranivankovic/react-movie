@@ -22,7 +22,7 @@ export default class Tenet extends Component {
             <div className={allStyles.tenet}>
            
           
-
+                     <div className={allStyles.emptyDiv}></div>
     
                     <div className={allStyles.mainText_hw}>
 
@@ -50,7 +50,7 @@ export default class Tenet extends Component {
 
     
                     </div>
-                
+                 <div className={allStyles.emptyDiv}></div>
 
         </div>
 

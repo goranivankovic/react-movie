@@ -26,7 +26,8 @@ export default class CaptanPants extends Component {
 
             <div className={allStyles.captain}>
            
-
+                   
+                      <div className={allStyles.emptyDiv}></div>
     
                     <div className={allStyles.mainText_hw}>
 
@@ -50,7 +51,7 @@ export default class CaptanPants extends Component {
     
                     </div>
                 
-
+              <div className={allStyles.emptyDiv}></div>
         </div>
         <Footer />
 

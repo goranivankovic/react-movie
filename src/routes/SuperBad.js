@@ -27,7 +27,8 @@ import allStyles from '../styles/All.module.css'
       
                   
             <div className={allStyles.superBad}>
-          
+                   
+                      <div className={allStyles.emptyDiv}></div>
 
     
                     <div className={allStyles.mainText_hw}>
@@ -56,7 +57,7 @@ import allStyles from '../styles/All.module.css'
     
                     </div>
                 
-
+                  <div className={allStyles.emptyDiv}></div>
         </div>
 
         <Footer />

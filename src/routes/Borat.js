@@ -23,6 +23,8 @@ export default class Borat extends Component {
            
 
             <div className={allStyles.borat}>
+
+                   <div className={allStyles.emptyDiv}></div>
      
                     <div className={allStyles.mainText_hw}>
 
@@ -47,7 +49,7 @@ export default class Borat extends Component {
        
     
                     </div>
-                
+                   <div className={allStyles.emptyDiv}></div>
 
         </div>
         <Footer />

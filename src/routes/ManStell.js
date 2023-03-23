@@ -23,8 +23,8 @@ export default class ManStell extends Component {
             <div className={allStyles.superman}>
            
           
+                       <div className={allStyles.emptyDiv}></div>
 
-    
                     <div className={allStyles.mainText_hw}>
 
             
@@ -47,7 +47,7 @@ export default class ManStell extends Component {
        
     
                     </div>
-                
+                 <div className={allStyles.emptyDiv}></div>
 
         </div>
 

@@ -29,6 +29,10 @@ export default class Titanic extends React.Component {
 
             <div className={allStyles.titanic}>
 
+
+                
+                      <div className={allStyles.emptyDiv}></div>
+                 
           
                         <div className={allStyles.mainText_hw}>
 
@@ -52,6 +56,10 @@ export default class Titanic extends React.Component {
            
         
                         </div>
+
+
+
+                         <div className={allStyles.emptyDiv}></div>
                         
                            
                         

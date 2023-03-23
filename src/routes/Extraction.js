@@ -24,6 +24,9 @@ export default class Extraction extends Component {
          
 
             <div className={allStyles.extraction}>
+
+
+                   <div className={allStyles.emptyDiv}></div>
           
                     <div className={allStyles.mainText_hw}>
 
@@ -47,7 +50,7 @@ export default class Extraction extends Component {
         
     
                     </div>
-                
+                   <div className={allStyles.emptyDiv}></div>
 
         </div>
         <Footer />

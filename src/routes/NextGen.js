@@ -25,7 +25,8 @@ export default class NextGen extends Component {
                      
             <div className={allStyles.next}>
         
-    
+                     <div className={allStyles.emptyDiv}></div>
+                     
                     <div className={allStyles.mainText_hw}>
 
            
@@ -48,7 +49,7 @@ export default class NextGen extends Component {
            
     
                     </div>
-                
+                   <div className={allStyles.emptyDiv}></div>
 
         </div>
         <Footer />

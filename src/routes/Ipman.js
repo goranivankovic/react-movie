@@ -24,7 +24,7 @@ export default class Ipman extends Component {
 
             <div className={allStyles.ipMan}>
          
-
+                  <div className={allStyles.emptyDiv}></div>
     
                     <div className={allStyles.mainText_hw}>
 
@@ -49,7 +49,7 @@ export default class Ipman extends Component {
     
                     </div>
                 
-
+                   <div className={allStyles.emptyDiv}></div>
         </div>
         <Footer />
 

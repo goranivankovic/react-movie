@@ -22,6 +22,8 @@ export default class BoosBaby extends Component {
            
 
               <div className={allStyles.bossBaby}>
+
+                     <div className={allStyles.emptyDiv}></div>
        
                     <div className={allStyles.mainText_hw}>
 
@@ -46,6 +48,8 @@ export default class BoosBaby extends Component {
 
     
                     </div>
+
+                       <div className={allStyles.emptyDiv}></div>
                 
 
         </div>

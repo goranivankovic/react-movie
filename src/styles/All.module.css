@@ -2,10 +2,12 @@
 
 
 .titanic{
-    height: 100vmin;
+    
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
      cursor: pointer;
@@ -18,13 +20,15 @@
 }
 
 .superman{
-    height: 100vmin;
-    width: 100%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-     cursor: pointer;
+
+       min-height: 100vh;
+        width: 100%;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        cursor: pointer;
      background-image: url('../img/steel.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -34,13 +38,14 @@
 }
 
 .greenland{
-    height: 100vmin;
+   min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/greenland.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -52,13 +57,15 @@
 
 
 .tenet{
-    height: 100vmin;
+
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/tenet.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -69,13 +76,14 @@
 
 
 .extraction{
-height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/extraction.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -86,13 +94,14 @@ height: 100vmin;
 
 
 .lost{
-    height: 100vmin;
+   min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/lost.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -102,13 +111,14 @@ height: 100vmin;
 }
 
 .bossBaby{
-    height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/bossBaby2.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -118,13 +128,14 @@ height: 100vmin;
 }
 
 .captain{
-    height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/captainUnderPants2.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -135,13 +146,14 @@ height: 100vmin;
 
 
 .next{
-    height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/nextGen.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -151,13 +163,14 @@ height: 100vmin;
 }
 
 .lego{
-    height: 100vmin;
+   min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/lego.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -168,13 +181,14 @@ height: 100vmin;
 
 
 .superBad{
-    height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/superBad.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -184,13 +198,14 @@ height: 100vmin;
 }
 
 .jump21{
-    height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/jump21.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -200,13 +215,14 @@ height: 100vmin;
 }
 
 .hangOver{
-    height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/hangover.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -216,13 +232,14 @@ height: 100vmin;
 }
 
 .borat{
-    height: 100vmin;
+   min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/borat.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -232,13 +249,14 @@ height: 100vmin;
 }
 
 .virgin{
-    height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/virgin.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -248,13 +266,15 @@ height: 100vmin;
 }
 
 .underground{
-height: 100vmin;
+    
+   min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/underground6.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -264,13 +284,14 @@ height: 100vmin;
 }
 
 .ipMan{
-    height: 100vmin;
+   min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/ipMan.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -281,13 +302,14 @@ height: 100vmin;
 
 
 .blackPanter{
-    height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/blackPanter.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -297,13 +319,14 @@ height: 100vmin;
 }
 
 .casino{
-    height: 100vmin;
+   min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/casinoRoyal.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -314,13 +337,14 @@ height: 100vmin;
 
 
 .venom{
-    height: 100vmin;
+    min-height: 100vh;
     width: 100%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
-     cursor: pointer;
+    cursor: pointer;
      background-image: url('../img/wonderWomen.jpg');
      background-repeat: no-repeat;
      background-attachment: relative;
@@ -329,59 +353,79 @@ height: 100vmin;
   
 }
 
+.emptyDiv{
+    width: 90%;
+    padding: 2em;
+    /* border: 2px solid red; */
+
+
+}
+
+
 
 
  .mainText_hw{
 
 
 
-    height: 50vmin;
-    width: 40%;
+   padding: 1em;
+    width: 50%;
     display: flex;
     flex-direction: column;
     justify-content: space-around; 
+    /* border: 2px solid red; */
+
   
 } 
 
  .mainText_title{
-    height: 10%;
+
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    font-size: 4vmin;
+    padding: 1em;
+    font-size: 1.6rem;
+        /* border: 2px solid red; */
+
 }
 .mainText_year{
-    height: 10%;
+
+
     width: 100%;
-    font-size: 2.7vmin;
+    padding: 1em;
+    font-size: 1.3rem;
+
+    /* border: 2px solid red; */
 
 }
 .paragraphText{
-    height:40%;
+    padding:1.5em;
     width: 100%;
 
-font-size: 2.2vmin;
+font-size: 1.2rem;
 
 
 } 
 
 .mainText_hw p{
-    font-size: 2vmin;
+    padding: 1em;
+    font-size:1.2rem;
 }
 
 .mainText_hw  a{
-
+    padding: .6em;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 6px;
+    border-radius:.4em;
     text-decoration: none;
     background-color: #3333ff;
     color: white;
-    width: 20vmin;
-    padding: 7px;
-    font-size: 2vmin;
+    width: 140px;
+    margin-left: 1em;
+  
+    font-size: .95rem;
 }
 .mainText_hw a:hover{
     text-decoration: none;
@@ -393,19 +437,220 @@ font-size: 2.2vmin;
 }
 
 
-@media only screen and (max-width: 992px) {
 
-    .mainText_hw {
-        height: 50vmin;
-        width: 70%;
+@media (max-width: 1200px) {
+.mainText_hw {
 
+
+
+        padding: 1em;
+        width: 55%;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        /* border: 1px solid red; */
+        /* border: 2px solid red; */
+
+
+    }
+}
+
+
+
+@media (max-width: 992px) {
+    .titanic {
+            min-height: auto;
+    
+    
+    
+        }
+
+
+.superman {
+    min-height: auto;
+
+}
+
+.greenland {
+min-height: auto;
+
+}
+
+
+
+.tenet {
+
+min-height: auto;
+
+}
+
+
+.extraction {
+min-height: auto;
+
+}
+
+
+.lost {
+min-height: auto;
+
+}
+
+.bossBaby {
+    min-height: auto;
+
+}
+
+.captain {
+min-height: auto;
+
+
+}
+
+
+.next {
+
+    min-height: auto;
+
+
+}
+
+.lego {
+
+min-height: auto;
+
+
+}
+
+
+.superBad {
+
+min-height: auto;
+
+}
+
+.jump21 {
+min-height: auto;
+
+}
+
+.hangOver {
+
+min-height: auto;
+
+
+
+}
+
+.borat {
+min-height: auto;
+
+
+}
+
+.virgin {
+min-height: auto;
+
+}
+
+.underground {
+min-height: auto;
+
+}
+
+   .ipMan {
+    min-height: auto;
+
+
+   }
+
+.blackPanter {
+min-height: auto;
+
+
+}
+
+.casino {
+min-height: auto;
+
+
+}
+
+
+.venom {
+min-height: auto;
+
+}
+
+                   .emptyDiv {
+                       width: 90%;
+                       padding: 4em;
+        
+                   }
+
+.mainText_hw {
+
+
+
+        padding: 1em;
+        width: 75%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        /* border: 2px solid red; */
+
 
     }
 
+    .mainText_title {
+
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 1em;
+        font-size: 1.4rem;
+        /* border: 2px solid red; */
+
+    }
+
+    .mainText_year {
+
+
+        width: 100%;
+        padding: 1em;
+        font-size: 1.15rem;
+
+        /* border: 2px solid red; */
+
+    }
+
+    .paragraphText {
+        padding: 1.5em;
+        width: 100%;
+
+        font-size: 1rem;
+
+
+    }
+
+    .mainText_hw p {
+        padding: 1em;
+        font-size: 1rem;
+    }
+
+    .mainText_hw a {
+        padding: .7em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: .4em;
+        text-decoration: none;
+        background-color: #3333ff;
+        color: white;
+        width: 140px;
+
+        font-size: .8rem;
+    }
 
 }
 
@@ -414,407 +659,176 @@ font-size: 2.2vmin;
 
 
 
-
-  @media only screen and (max-width: 768px) {
-
-    .mainText_hw{
-        height: 60vmin;
-        width: 75%;
-    
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-        /* border: 1px solid red; */
-      
-    }
+  @media (max-width: 768px) {
 
 
-         .mainText_title {
-             height: 10%;
-             width: 100%;
-             display: flex;
-             align-items: center;
-             justify-content: flex-start;
-             font-size: 4vmin;
-         }
-    
-         .mainText_year {
-             height: 10%;
-             width: 100%;
-             font-size: 3vmin;
-    
-         }
-    
-         .paragraphText {
-             height: 40%;
-             width: 100%;
-    
-             font-size: 2.2vmin;
-    
-    
-         }
-    
-         .mainText_hw p {
-             font-size: 2.4vmin;
-         }
-    
-         .mainText_hw a {
-    
-             display: flex;
-             align-items: center;
-             justify-content: center;
-             border-radius: 6px;
-             text-decoration: none;
-             background-color: #3333ff;
-             color: white;
-             width: 25vmin;
-             padding: 7px;
-             font-size: 2.2vmin;
-         }
+     .emptyDiv {
+       width: 90%;
+        padding: 4em;
+                
+       }
+.mainText_hw {
 
+
+
+    padding: .5em;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* border: 2px solid red; */
+
+
+}
+
+.mainText_title {
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 1em;
+    font-size: 1.3rem;
+    /* border: 2px solid red; */
+
+}
+
+.mainText_year {
+
+
+    width: 100%;
+    padding: 1em;
+    font-size: 1rem;
+
+    /* border: 2px solid red; */
+
+}
+
+.paragraphText {
+    padding: 1.5em;
+    width: 100%;
+
+    font-size: .9rem;
+
+
+}
+
+.mainText_hw p {
+    padding: 1em;
+    font-size: .9rem;
+}
+
+.mainText_hw a {
+    padding: .6em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: .4em;
+    text-decoration: none;
+    background-color: #3333ff;
+    color: white;
+    width: 140px;
+
+    font-size: .9rem;
+}
+
+   
 
   }
 
 
 
 
-        @media only screen and (max-width: 600px) {
+
+
+
+
+
+
+
+
+
+
+
+
+  @media (max-width: 600px) {
+
+   
+
+      .emptyDiv {
+          width: 90%;
+          padding: 4em;
+
+      }
+
+      .mainText_hw {
+
+
+
+          padding: .5em;
+          width: 95%;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-around;
+          /* border: 2px solid red; */
+
+
+      }
+
+      .mainText_title {
+
+          width: 100%;
+          display: flex;
+          align-items: center;
+          justify-content: flex-start;
+          padding: .5em;
+          font-size: 1.2rem;
+          /* border: 2px solid red; */
+
+      }
+
+      .mainText_year {
+
+
+          width: 100%;
+          padding: .5em;
+          font-size: .9rem;
+
+          /* border: 2px solid red; */
+
+      }
+
+      .paragraphText {
+          padding: 1em;
+          width: 100%;
+
+          font-size: .8rem;
+
+
+      }
+
+      .mainText_hw p {
+          padding: 1em;
+          font-size: .8rem;
+      }
+
+      .mainText_hw a {
+          padding: .5em;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          border-radius: .4em;
+          text-decoration: none;
+          background-color: #3333ff;
+          color: white;
+          width: 120px;
+
+          font-size: .8rem;
+      }
+
+
+
+  }
+
     
-            .mainText_hw {
-                height: 60vmin;
-                width:80%;
-    
-                display: flex;
-                flex-direction: column;
-                justify-content: space-around;
-                /* border: 1px solid red; */
-    
-            }
-    
-    
-            .mainText_title {
-                height: 10%;
-                width: 100%;
-                display: flex;
-                align-items: center;
-                justify-content: flex-start;
-                font-size: 4.3vmin;
-            }
-    
-            .mainText_year {
-                height: 10%;
-                width: 100%;
-                font-size: 3.3vmin;
-    
-            }
-    
-            .paragraphText {
-                height: 40%;
-                width: 100%;
-    
-                font-size: 2.8vmin;
-    
-    
-            }
-    
-            .mainText_hw p {
-                font-size: 3vmin;
-            }
-    
-            .mainText_hw a {
-    
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                border-radius: 6px;
-                text-decoration: none;
-                background-color: #3333ff;
-                color: white;
-                width: 20vmin;
-                padding: 6px;
-                font-size: 2.4vmin;
-            }
-
-
-
-
-
-            /* Movies height */
-
-
-
-
-
-
-
-                        .titanic {
-                        height: 125vmin;
-            
-                        }
-            
-                        .superman {
-                            height: 125vmin;
-            
-                        }
-            
-                        .greenland {
-                        height: 125vmin;
-                        }
-            
-            
-            
-                        .tenet {
-                          
-                            height: 125vmin;
-            
-                        }
-            
-            
-                        .extraction {
-                        height: 125vmin;
-            
-                        }
-            
-            
-                        .lost {
-                        height: 125vmin;
-            
-                        }
-            
-                        .bossBaby {
-                        height: 125vmin;
-            
-                        }
-            
-                        .captain {
-                            height: 125vmin;
-                       
-            
-                        }
-            
-            
-                        .next {
-
-                            height: 125vmin;
-                         
-            
-                        }
-            
-                        .lego {
-
-                            height: 125vmin;
-                       
-            
-                        }
-            
-            
-                        .superBad {
-
-                            height: 125vmin;
-            
-                        }
-            
-                        .jump21 {
-                           height: 125vmin;
-            
-                        }
-            
-                        .hangOver {
-
-                            height: 125vmin;
-                          
-                           
-            
-                        }
-            
-                        .borat {
-                            height: 125vmin;
-                     
-            
-                        }
-            
-                        .virgin {
-                            height: 125vmin;
-                        
-            
-                        }
-            
-                        .underground {
-                            height: 125vmin;
-                        
-            
-                        }
-            
-                        .ipMan {
-                            height: 125vmin;
-                         
-            
-                        }
-            
-            
-                        .blackPanter {
-                            height: 125vmin;
-                           
-            
-                        }
-            
-                        .casino {
-                            height: 125vmin;
-                          
-            
-                        }
-            
-            
-                        .venom {
-                            height: 125vmin;
-                       
-                        }
-
-
-
-
-
-                   
-
-                   
-    
-        }
-
-
-
-                                @media only screen and (max-width: 500px) {
-
-
-
-
-                                    .titanic {
-                                            height: 150vmin;
-                                    
-                                        }
-                                    
-                                        .superman {
-                                            height: 150vmin;
-                                    
-                                        }
-                                    
-                                        .greenland {
-                                            height: 150vmin;
-                                        }
-                                    
-                                    
-                                    
-                                        .tenet {
-                                    
-                                            height: 150vmin;
-                                    
-                                        }
-                                    
-                                    
-                                        .extraction {
-                                            height: 150vmin;
-                                    
-                                        }
-                                    
-                                    
-                                        .lost {
-                                            height: 150vmin;
-                                    
-                                        }
-                                    
-                                        .bossBaby {
-                                        height: 150vmin;
-                                    
-                                        }
-                                    
-                                        .captain {
-                                            height: 150vmin;
-                                    
-                                    
-                                        }
-                                    
-                                    
-                                        .next {
-                                    
-                                            height: 150vmin;
-                                    
-                                    
-                                        }
-                                    
-                                        .lego {
-                                    
-                                        height: 150vmin;
-                                    
-                                    
-                                        }
-                                    
-                                    
-                                        .superBad {
-                                    
-                                            height: 150vmin;
-                                    
-                                        }
-                                    
-                                        .jump21 {
-                                        height: 150vmin;
-                                    
-                                        }
-                                    
-                                        .hangOver {
-                                    
-                                        height: 150vmin;
-                                    
-                                    
-                                    
-                                        }
-                                    
-                                        .borat {
-                                            height: 150vmin;
-                                    
-                                    
-                                        }
-                                    
-                                        .virgin {
-                                        height: 150vmin;
-                                    
-                                    
-                                        }
-                                    
-                                        .underground {
-                                            height: 150vmin;
-                                    
-                                    
-                                        }
-                                    
-                                        .ipMan {
-                                            height: 150vmin;
-                                    
-                                    
-                                        }
-                                    
-                                    
-                                        .blackPanter {
-                                            height: 150vmin;
-                                    
-                                    
-                                        }
-                                    
-                                        .casino {
-                                            height: 150vmin;
-                                    
-                                    
-                                        }
-                                    
-                                    
-                                        .venom {
-                                        height: 150vmin;
-                                    
-                                        }
-
-
-                                
-
-
-
-
-                                }
                     

@@ -22,6 +22,9 @@ export default class Hangover extends Component {
           
 
             <div className={allStyles.hangOver}>
+
+
+                   <div className={allStyles.emptyDiv}></div>
         
                     <div className={allStyles.mainText_hw}>
 
@@ -46,7 +49,7 @@ export default class Hangover extends Component {
           
     
                     </div>
-                
+                   <div className={allStyles.emptyDiv}></div>
 
         </div>
 

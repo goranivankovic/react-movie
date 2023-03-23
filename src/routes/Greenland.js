@@ -30,7 +30,8 @@ export default class Greenland extends Component {
             <div className={allStyles.greenland}>
      
 
-    
+                <div className={allStyles.emptyDiv}></div>
+
                     <div className={allStyles.mainText_hw}>
 
             
@@ -54,7 +55,7 @@ export default class Greenland extends Component {
        
     
                     </div>
-                
+                   <div className={allStyles.emptyDiv}></div>
 
         </div>
         <Footer />

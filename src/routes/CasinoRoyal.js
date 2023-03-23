@@ -21,6 +21,9 @@ export default class CasinoRoyal extends Component {
                   <NavBar />
            
             <div className={allStyles.casino}>
+
+
+                   <div className={allStyles.emptyDiv}></div>
         
                     <div className={allStyles.mainText_hw}>
 
@@ -45,7 +48,7 @@ export default class CasinoRoyal extends Component {
 
                     </div>
                 
-
+                 <div className={allStyles.emptyDiv}></div>
         </div>
 
         <Footer />

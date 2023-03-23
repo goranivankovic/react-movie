@@ -28,6 +28,8 @@ export default class Undeground extends Component {
             <div className={allStyles.underground}> 
 
     
+                     <div className={allStyles.emptyDiv}></div>
+                     
                     <div className={allStyles.mainText_hw}>
 
          
@@ -50,7 +52,7 @@ export default class Undeground extends Component {
      
     
                     </div>
-                
+                   <div className={allStyles.emptyDiv}></div>
 
         </div>
         <Footer />

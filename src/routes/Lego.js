@@ -20,6 +20,9 @@ export default class Lego extends Component {
                 <NavBar />
             
             <div className={allStyles.lego}>
+
+
+                   <div className={allStyles.emptyDiv}></div>
         
                     <div className={allStyles.mainText_hw}>
 
@@ -46,7 +49,7 @@ export default class Lego extends Component {
           
     
                     </div>
-                
+                   <div className={allStyles.emptyDiv}></div>
 
         </div>
         <Footer />
