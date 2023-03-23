@@ -1,5 +1,5 @@
 .main {
-    min-height: 95vmin;
+    min-height: 100vh;
     width: 100%;
     background-color: white;
     display: flex;
@@ -11,26 +11,34 @@
 
 }
 
+
+
 .form{
     width: 50%;
-    height: 6vmin;
+   padding: 1em;
+   
     display: flex;
 
 justify-content: space-between;
-font-size: 2vmin;
+font-size:1rem ;
+
+/* border: 2px solid red; */
+
 }
 
 input[type="text"]{
-    height: 5vmin;
-    border-radius: 6px;
+    padding: .35em;
+    border-radius: none;
     width: 70%;
+    border-radius: .4em;
+    padding-left: 1em;
 
 }
 
 .form button{
-    height: 5vmin;
-    width: 20vmin;
-    border-radius: 6px;
+    padding: .3em;
+    width: 140px;
+    border-radius: .5em;
 
     border: none;
     background-color: #3333ff;
@@ -40,46 +48,64 @@ input[type="text"]{
 
 
 .firstDiv{
-height: 55vmin;
-width: 70%;
+
+max-width: 70%;
 display: flex;
 align-items: center;
 justify-content: space-around;
 
+/* border: 2px solid red; */
 
 }
 
 
-.firstDivItem1{
-    height: 52vmin;
-    width:45%;
+ .firstDivItem1{
+    height: 50vh;
+   width: 45%;
+ 
    
 }
 
 .firstDivItem2 {
-    height: 45vmin;
+    padding: 2em;
     width: 45%;
+    padding: 1em;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-around;
     color: black;
+/* border: 2px solid red; */
 
 }
 
 .firstDivItem2Headline{
-    font-size: 3vmin;
+    font-size: 1.4rem;
+    width: 100%;
+    padding: .5em;
+
+    /* border: 2px solid red; */
+
 }
 
 .firstDivItem2Year{
-    font-size: 2.1vmin;
+    width: 100%;
+    font-size:1rem;
+    padding: 1em;
+    /* border: 2px solid red; */
+
 }
 
 .firstDivItem2Text{
-    font-size: 2.3vmin;
+    font-size: 1rem;
+    padding: .5em;
+    width: 100%;
+    text-align: left;
 }
 
-img{
+
+
+ img{
     height: 100%;
     width: 100%;
 }
@@ -93,8 +119,9 @@ img{
 
 
 .emptyDiv{
-    height: 25vmin;
-    width: 70%;
+
+    width: 80%;
+    padding: 3em;
     display: flex;
     justify-content: flex-end;
     
@@ -103,11 +130,11 @@ img{
 
 .emptyDiv a{
          text-decoration: none;
-        font-size: 1.7vmin;
-        height: 5vmin;
-        padding: 6px;
-        width: 15vmin;
-        border-radius: 6px;
+        font-size: 1rem;
+        
+        padding: .35em;
+        width: 140px;
+        border-radius: .4em;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -127,80 +154,276 @@ img{
 
 
 
-  @media only screen and (max-width: 1200px) {
+  @media (max-width: 1200px) {
 
 
     .form {
-        margin-top: 10px;
-            width: 70%;
-            height: 6vmin;
-            display: flex;
-    
-            justify-content: space-between;
-            font-size: 2vmin;
-        }
-    
-        input[type="text"] {
-            height: 5vmin;
-            border-radius: 6px;
-            width: 60%;
-    
-        }
+        width: 60%;
+        padding: 1em;
+
+        display: flex;
+
+        justify-content: space-between;
+        font-size: 1rem;
+
+        
+    }
+
+    input[type="text"] {
+        padding: .35em;
+        border-radius: none;
+        width: 70%;
+        border-radius: .4em;
+        padding-left: 1em;
+
+    }
+
+    .form button {
+        padding: .3em;
+        width: 130px;
+        border-radius: .5em;
+
+        border: none;
+        background-color: #3333ff;
+        color: white;
+
+    }
+
 
     .firstDiv {
-            height: 55vmin;
-            width: 77%;
-            display: flex;
-            align-items: center;
-            justify-content: space-around;
-          
-    
-        }
 
+        max-width: 75%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+      
+
+    }
+
+
+    .firstDivItem1 {
+        height: 50vh;
+        width: 45%;
+
+
+    }
+
+    .firstDivItem2 {
+        padding: 2em;
+        width: 45%;
+        padding: 1em;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+        color: black;
+      
+
+    }
+
+    .firstDivItem2Headline {
+        font-size: 1.4rem;
+        width: 100%;
+        padding: .5em;
+
+ 
+
+    }
+
+    .firstDivItem2Year {
+        width: 100%;
+        font-size: 1rem;
+        padding: 1em;
+   
+
+    }
+
+    .firstDivItem2Text {
+        font-size: 1rem;
+        padding: .5em;
+        width: 100%;
+        text-align: left;
+    }
+
+
+
+    img {
+        height: 100%;
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+    .emptyDiv {
+
+        width: 80%;
+        padding: 3em;
+        display: flex;
+        justify-content: flex-end;
+
+    }
+
+
+    .emptyDiv a {
+        text-decoration: none;
+        font-size: 1rem;
+
+        padding: .35em;
+        width: 140px;
+        border-radius: .4em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        border: 2px solid #3333ff;
+        color: #3333ff;
+    }
+
+   
   }
 
 
 
 
 
-  @media only screen and (max-width: 992px) {
+  @media (max-width: 992px) {
+
+    .form {
+        width: 70%;
+        padding: 1em;
+
+        display: flex;
+
+        justify-content: space-between;
+        font-size: 1rem;
+
+
+    }
+
+    input[type="text"] {
+        padding: .35em;
+        border-radius: none;
+        width: 70%;
+        border-radius: .4em;
+        padding-left: 1em;
+
+    }
+
+    .form button {
+        padding: .3em;
+        width: 130px;
+        border-radius: .5em;
+
+        border: none;
+        background-color: #3333ff;
+        color: white;
+
+    }
+
 
     .firstDiv {
-            height: 55vmin;
-            width: 82%;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-           
+
+        max-width: 85%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+
+
+    }
+
+
+    .firstDivItem1 {
+        height: 50vh;
+        width: 48%;
+
+
+    }
+
+    .firstDivItem2 {
+        padding: 2em;
+        width: 48%;
+        padding: 1em;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+        color: black;
+
+
+    }
+
+    .firstDivItem2Headline {
+        font-size: 1.4rem;
+        width: 100%;
+        padding: .5em;
+
+
+
+    }
+
+    .firstDivItem2Year {
+        width: 100%;
+        font-size: 1rem;
+        padding: 1em;
+
+
+    }
+
+    .firstDivItem2Text {
+        font-size: 1rem;
+        padding: .5em;
+        width: 100%;
+        text-align: left;
+    }
+
+
+
+    img {
+        height: 100%;
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+    .emptyDiv {
+
+        width: 80%;
+        padding: 3em;
+        display: flex;
+        justify-content: flex-end;
+
+    }
+
+
+    .emptyDiv a {
+        text-decoration: none;
+        font-size: 1rem;
+
+        padding: .35em;
+        width: 140px;
+        border-radius: .4em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        border: 2px solid #3333ff;
+        color: #3333ff;
+    }
     
-        }
-
-
-                .form button {
-                    height: 5vmin;
-                    width: 15vmin;
-                    border-radius: 6px;
-        
-                    border: none;
-                    background-color: #3333ff;
-                    color: white;
-        
-                }
-
-
-  .firstDivItem2Headline {
-      font-size: 2.8vmin;
-  }
-
-  .firstDivItem2Year {
-      font-size: 1.9vmin;
-  }
-
-  .firstDivItem2Text {
-      font-size: 2.1vmin;
-  }
-
-
 
 }
 
@@ -209,12 +432,10 @@ img{
 
 
 
-@media only screen and (max-width: 768px) {
-
-
+@media (max-width: 768px) {
 
     .main {
-            min-height: 139vmin;
+            height: auto;
             width: 100%;
             background-color: white;
             display: flex;
@@ -226,220 +447,32 @@ img{
     
         }
 
+.form {
+        width: 75%;
+        padding: 1em;
 
-
-    .firstDiv {
-        height: 105vmin;
-        width: 82%;
         display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-around;
-    
 
-    }
-
-
-
-        .firstDivItem1 {
-            height: 52vmin;
-            width: 70%;
-    
-        }
-    
-        .firstDivItem2 {
-            height: 50vmin;
-            width: 70%;
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            justify-content: space-around;
-            color: black;
-            font-size: 1.8vmin;
-    
-        }
-
-
-
-
-
-
-    .firstDivItem2Headline {
-        font-size: 2.8vmin;
-    }
-
-    .firstDivItem2Year {
-        font-size: 1.9vmin;
-    }
-
-    .firstDivItem2Text {
-        font-size: 2.1vmin;
-    }
-
-
-
-}
-
-
-
-
-
-@media only screen and (max-width: 600px) {
-
-
-
-    .main {
-        min-height: 160vmin;
-        width: 100%;
-        background-color: white;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-        align-items: center;
-        color: white;
-        cursor: pointer;
-
-    }
-
-
-        .form button {
-            height: 6vmin;
-            width: 20vmin;
-            border-radius: 6px;
-    font-size: 2.1vmin;
-            border: none;
-            background-color: #3333ff;
-            color: white;
-    
-        }
-
-
-
-    .firstDiv {
-        height: 130vmin;
-        width: 82%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-around;
-       
-
-    }
-
-
-
-    .firstDivItem1 {
-        height: 62vmin;
-        width: 85%;
-
-    }
-
-    .firstDivItem2 {
-        height: 60vmin;
-        width: 85%;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        justify-content: space-around;
-        color: black;
-
-            font-size: 2.1vmin;
+        justify-content: space-between;
+        font-size: 1rem;
 
 
     }
 
-
-
-
-
-
-    .firstDivItem2Headline {
-        font-size: 3.2vmin;
-    }
-
-    .firstDivItem2Year {
-        font-size: 2.4vmin;
-    }
-
-    .firstDivItem2Text {
-        font-size: 2.3vmin;
-    }
-
-
-
-
-        .emptyDiv a {
-            text-decoration: none;
-            font-size: 2.1vmin;
-            height: 6vmin;
-            padding: 6px;
-            width: 25vmin;
-            border-radius: 6px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background-color: white;
-            border: 2px solid #3333ff;
-            color: #3333ff;
-        }
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-@media only screen and (max-width: 500px) {
-
-
-
-    .main {
-        min-height: 160vmin;
-        width: 100%;
-        background-color: white;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-        align-items: center;
-        color: white;
-        cursor: pointer;
+    input[type="text"] {
+        padding: .35em;
+        border-radius: none;
+        width: 70%;
+        border-radius: .4em;
+        padding-left: 1em;
 
     }
-
-
-
-
-        .form {
-            width:80%;
-            height: 6vmin;
-            display: flex;
-    
-            justify-content: space-between;
-            font-size: 3vmin;
-        }
-
-
-                input[type="text"] {
-                    height: 6.5vmin;
-                    border-radius: 6px;
-                    width: 60%;
-        
-                }
-
 
     .form button {
-        height: 7vmin;
-        width: 20vmin;
-        border-radius: 6px;
-        font-size: 2.25vmin;
+        padding: .3em;
+        width: 130px;
+        border-radius: .5em;
+
         border: none;
         background-color: #3333ff;
         color: white;
@@ -447,67 +480,97 @@ img{
     }
 
 
-
     .firstDiv {
-        height: 130vmin;
-        width: 82%;
+
+        max-width: 75%;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: space-around;
 
 
+
     }
 
 
-
     .firstDivItem1 {
-        height: 62vmin;
-        width: 85%;
+        height: auto;
+        width: 80%;
+        margin-top: 2em;
+        margin-bottom: 2em;
+
 
     }
 
     .firstDivItem2 {
-        height: 60vmin;
-        width: 85%;
+        padding: 2em;
+        width: 100%;
+        padding: .2em;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
         justify-content: space-around;
         color: black;
 
-        font-size: 2.5vmin;
-
 
     }
 
-
-
-
-
-
     .firstDivItem2Headline {
-        font-size: 4vmin;
+        font-size: 1.4rem;
+        width: 100%;
+        padding: 1em;
+
+
+
     }
 
     .firstDivItem2Year {
-        font-size: 2.8vmin;
+        width: 100%;
+        font-size: 1rem;
+        padding: 1.5em;
+
+
     }
 
     .firstDivItem2Text {
-        font-size: 2.8vmin;
+        font-size: 1rem;
+        padding: .8em;
+        width: 100%;
+        text-align: left;
     }
 
 
+
+    img {
+        height: 100%;
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+    .emptyDiv {
+
+        width: 90%;
+        padding: 3em;
+        display: flex;
+        justify-content: flex-end;
+
+    }
 
 
     .emptyDiv a {
         text-decoration: none;
-        font-size: 2.3vmin;
-        height: 7vmin;
-        padding: 6.5px;
-        width: 25vmin;
-        border-radius: 6px;
+        font-size: 1rem;
+
+        padding: .45em;
+        width: 150px;
+        border-radius: .4em;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -516,6 +579,307 @@ img{
         color: #3333ff;
     }
 
+
+}
+
+
+
+
+
+@media  (max-width: 600px) {
+.form {
+        width: 90%;
+        padding: 1em;
+
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+
+        justify-content: space-between;
+        font-size: 1rem;
+
+        margin-top: 2em;
+
+
+    }
+
+    input[type="text"] {
+        padding: .35em;
+        border-radius: none;
+        width: 100%;
+        border-radius: .4em;
+        padding-left: 1em;
+        
+
+    }
+
+    .form button {
+        margin-top: 1em;
+        padding: .5em;
+        width: 140px;
+        border-radius: .5em;
+       
+
+        border: none;
+        background-color: #3333ff;
+        color: white;
+
+    }
+
+
+    .firstDiv {
+
+        max-width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+
+
+
+    }
+
+
+    .firstDivItem1 {
+        height: auto;
+        width: 95%;
+        margin-top: 2em;
+        margin-bottom: 2em;
+
+
+    }
+
+    .firstDivItem2 {
+        padding: 2em;
+        width: 100%;
+        padding: .2em;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+        color: black;
+
+
+    }
+
+    .firstDivItem2Headline {
+        font-size: 1.4rem;
+        width: 100%;
+        padding: 1em;
+
+
+
+    }
+
+    .firstDivItem2Year {
+        width: 100%;
+        font-size: 1rem;
+        padding: 1.5em;
+
+
+    }
+
+    .firstDivItem2Text {
+        font-size: 1rem;
+        padding: .8em;
+        width: 100%;
+        text-align: left;
+    }
+
+
+
+    img {
+        height: 100%;
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+    .emptyDiv {
+
+        width: 90%;
+        padding: 3em;
+        display: flex;
+        justify-content: flex-end;
+
+    }
+
+
+    .emptyDiv a {
+        text-decoration: none;
+        font-size: 1rem;
+
+        padding: .45em;
+        width: 150px;
+        border-radius: .4em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        border: 2px solid #3333ff;
+        color: #3333ff;
+    }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 500px) {
+.form {
+        width: 100%;
+        padding: 1em;
+
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+
+        justify-content: space-between;
+        font-size: .85rem;
+
+        margin-top: 2em;
+
+
+    }
+
+    input[type="text"] {
+        padding: .4em;
+        border-radius: none;
+        width: 100%;
+        border-radius: .4em;
+        padding-left: 1em;
+
+
+    }
+
+    .form button {
+        margin-top: 1em;
+        padding: .6em;
+        width: 110px;
+        border-radius: .5em;
+
+
+        border: none;
+        background-color: #3333ff;
+        color: white;
+
+    }
+
+
+    .firstDiv {
+
+        max-width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+
+
+
+    }
+
+
+    .firstDivItem1 {
+        height: auto;
+        width: 95%;
+        margin-top: 2em;
+        margin-bottom: 2em;
+
+
+    }
+
+    .firstDivItem2 {
+        padding: 2em;
+        width: 100%;
+        padding: .2em;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+        color: black;
+
+
+    }
+
+    .firstDivItem2Headline {
+        font-size: 1.2rem;
+        width: 100%;
+        padding: 1em;
+
+
+
+    }
+
+    .firstDivItem2Year {
+        width: 100%;
+        font-size: .85rem;
+        padding: 1.5em;
+
+
+    }
+
+    .firstDivItem2Text {
+        font-size: .85rem;
+        padding: .8em;
+        width: 100%;
+        text-align: left;
+    }
+
+
+
+    img {
+        height: 100%;
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+    .emptyDiv {
+
+        width: 90%;
+        padding: 3em;
+        display: flex;
+        justify-content: flex-end;
+
+    }
+
+
+    .emptyDiv a {
+        text-decoration: none;
+        font-size: .85rem;
+
+        padding: .4em;
+        width: 130px;
+        border-radius: .4em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        border: 2px solid #3333ff;
+        color: #3333ff;
+    }
 
 
 }

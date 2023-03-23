@@ -169,7 +169,7 @@ if (response.data.Response== 'False') {
                            
                         </form>
 
-                     {this.state.laz ?
+                   {this.state.laz ? 
                         <div className={searchStyle.firstDiv}>
 
                            
@@ -194,7 +194,8 @@ if (response.data.Response== 'False') {
 
                                 
                         </div>
-  :""}
+
+                         :""} 
 
 
                            <div className={searchStyle.emptyDiv}>
