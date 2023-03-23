@@ -1,5 +1,6 @@
 .main {
-    min-height: 100vh;
+
+    height: 95vh;
     width: 100%;
     background-color: white;
     display: flex;
@@ -60,8 +61,10 @@ justify-content: space-around;
 
 
  .firstDivItem1{
-    height: 50vh;
+ 
+  
    width: 50%;
+    height: 45vh;
  
    
 }
@@ -117,9 +120,10 @@ justify-content: space-around;
 
 
 
- img{
+ .firstDivItem1 img{
     height: 100%;
     width: 100%;
+  
 }
 
 
@@ -215,8 +219,8 @@ justify-content: space-around;
 
 
     .firstDivItem1 {
-        height: 50vh;
-        width: 50%;
+       width: 50%;
+        height: 45vh;
 
 
     }
@@ -364,9 +368,8 @@ justify-content: space-around;
 
 
     .firstDivItem1 {
-        height: 50vh;
         width: 50%;
-
+        height: 45vh;
 
     }
 
@@ -528,7 +531,8 @@ justify-content: space-around;
 
     .firstDivItem1 {
         height: auto;
-        width: 80%;
+        width: 90%;
+        padding: 0em;
         margin-top: 2em;
         margin-bottom: 2em;
 
