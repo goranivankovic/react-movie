@@ -172,10 +172,11 @@ if (response.data.Response== 'False') {
                    {this.state.laz ? 
                         <div className={searchStyle.firstDiv}>
 
-                           
-                           
+                          
 
-                            <img className={searchStyle.firstDivItem1} src={this.state.poster } alt=''  />
+                            <img  src={this.state.poster } className={searchStyle.firstDivItem1} alt=''  />
+
+                           
 
                             <div className={searchStyle.firstDivItem2}>
                                 <span className={searchStyle.firstDivItem2Headline}>{this.state.title}</span>
