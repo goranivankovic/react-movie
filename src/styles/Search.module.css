@@ -1,6 +1,6 @@
 .main {
 
-    min-height: 95vh;
+    min-height: 80vh;
     width: 100%;
     background-color: white;
     display: flex;
@@ -476,7 +476,7 @@ img{
 @media (max-width: 768px) {
 
     .main {
-            min-height: auto;
+            min-height: 60vh;
             width: 100%;
             background-color: white;
             display: flex;
