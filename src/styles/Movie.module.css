@@ -82,6 +82,8 @@ font-size: 1.2rem;
 
 .mainDiv_items{
   width: 19.2%;
+  /* height: 25rem; */
+
   border: .20em solid white;
   border-radius: .6em;
   background-color: white;
@@ -242,6 +244,7 @@ img{
 
     .mainDiv_items {
       width: 47%;
+
       border: .20em solid white;
       border-radius: .6em;
       background-color: white;
@@ -333,6 +336,7 @@ img{
 
   .mainDiv_items {
     width: 80%;
+
   
     border: .20em solid white;
     border-radius: .6em;
