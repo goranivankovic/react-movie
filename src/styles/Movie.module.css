@@ -30,7 +30,7 @@
 
 }
 .mainText_WH{
-  width: 70%;
+  width: 55rem;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -119,7 +119,7 @@ img{
     }
   
     .mainText_WH {
-      width: 75%;
+  width: 55rem;
       display: flex;
       flex-direction: column;
       justify-content: space-around;
@@ -254,6 +254,8 @@ img{
   
     }
   
+
+  
 }
 
 
@@ -335,7 +337,8 @@ img{
 
 
   .mainDiv_items {
-    width: 80%;
+    width: 47%;
+
 
   
     border: .20em solid white;
@@ -345,6 +348,11 @@ img{
 
 
 
+  }
+
+
+  .mainDiv_items img{
+    height: 25rem;
   }
 
 }
@@ -436,6 +444,10 @@ img{
 
 
   }
+
+        .mainDiv_items img {
+          height: auto;
+        }
 
 }
 
