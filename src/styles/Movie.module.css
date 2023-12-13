@@ -393,9 +393,9 @@ img{
     }
   
     .mainText_WH div {
-      padding: 1.2em;
+      padding: 1.1em;
   
-      /* border: 2px solid red; */
+
   
     }
   
@@ -434,11 +434,11 @@ img{
 
 
   .mainDiv_items {
-    width: 90%;
+    width: 49%;
     border: .20em solid white;
     border-radius: .6em;
     background-color: white;
-    margin-bottom: 1em;
+    margin-bottom: .7em;
  
 
 

@@ -1,6 +1,6 @@
 .main {
 
-    min-height: 90vh;
+    min-height: 90dvh;
     width: 100%;
     background-color: white;
     display: flex;
@@ -15,7 +15,7 @@
 
 
 .form{
-    width: 50%;
+    min-width: 65rem;
    padding: 1em;
    
     display: flex;
@@ -50,12 +50,12 @@ input[type="text"]{
 
 .firstDiv{
 
-max-width: 70%;
+max-width: 65rem;
 display: flex;
 align-items: center;
 justify-content: space-around;
 
-/* border: 2px solid red; */
+/* background-color: red; */
 
 }
 
@@ -64,7 +64,7 @@ justify-content: space-around;
  
  
   width: 50%;
- height: 30rem;
+ height: 25rem;
 
  
  
@@ -139,7 +139,7 @@ img{
 
 .emptyDiv{
 
-    width: 80%;
+    width: 60%;
     padding: 3em;
     display: flex;
     justify-content: flex-end;
@@ -173,11 +173,11 @@ img{
 
 
 
-  @media (max-width: 1200px) {
+  @media (max-width: 1040px) {
 
 
     .form {
-        width: 60%;
+       min-width: 55rem;
         padding: 1em;
 
         display: flex;
@@ -211,7 +211,7 @@ img{
 
     .firstDiv {
 
-        max-width: 75%;
+        max-width: 60rem;
         display: flex;
         align-items: center;
         justify-content: space-around;
@@ -223,7 +223,7 @@ img{
 
     .firstDivItem1 {
        width: 50%;
-        /* height: 45vh; */
+    height: 25rem;
 
 
     }
@@ -328,7 +328,7 @@ img{
     
 
     .form {
-        width: 70%;
+        min-width: 45rem;
         padding: 1em;
 
         display: flex;
@@ -362,7 +362,7 @@ img{
 
     .firstDiv {
 
-        max-width: 85%;
+        max-width: 48rem;
         display: flex;
         align-items: center;
         justify-content: space-around;
@@ -374,7 +374,7 @@ img{
 
     .firstDivItem1 {
         width: 50%;
-height: 30rem;
+height: 25rem;
 
     }
 
@@ -476,7 +476,7 @@ height: 30rem;
 @media (max-width: 768px) {
 
     .main {
-            min-height: 60vh;
+            min-height: 80dvh;
             width: 100%;
             background-color: white;
             display: flex;
@@ -489,7 +489,7 @@ height: 30rem;
         }
 
 .form {
-        width: 75%;
+        min-width: 35rem;
         padding: 1em;
 
         display: flex;
@@ -523,7 +523,7 @@ height: 30rem;
 
     .firstDiv {
 
-        max-width: 75%;
+        min-width: 75%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -535,8 +535,8 @@ height: 30rem;
 
 
     .firstDivItem1 {
-        height: auto;
-        width: 90%;
+        height: 25rem;
+        min-width: 30rem;
         padding: 0em;
         margin-top: 2em;
         margin-bottom: 2em;
@@ -546,7 +546,7 @@ height: 30rem;
 
     .firstDivItem2 {
         padding: 2em;
-        width: 100%;
+        width: 30rem;
         padding: .2em;
         display: flex;
         flex-direction: column;
@@ -609,7 +609,7 @@ height: 30rem;
     .emptyDiv {
 
         width: 90%;
-        padding: 3em;
+        padding:1em;
         display: flex;
         justify-content: flex-end;
 
@@ -640,7 +640,7 @@ height: 30rem;
 
 @media  (max-width: 600px) {
 .form {
-        width: 90%;
+        min-width: 30rem;
         padding: 1em;
 
         display: flex;
@@ -693,7 +693,7 @@ height: 30rem;
 
 
     .firstDivItem1 {
-        height: auto;
+        height: 25rem;
         width: 95%;
         margin-top: 2em;
         margin-bottom: 2em;
@@ -765,7 +765,7 @@ height: 30rem;
     .emptyDiv {
 
         width: 90%;
-        padding: 3em;
+        padding: 1em;
         display: flex;
         justify-content: flex-end;
 
@@ -804,7 +804,7 @@ height: 30rem;
 
 @media (max-width: 500px) {
 .form {
-        width: 100%;
+        min-width: 95%;
         padding: 1em;
 
         display: flex;
@@ -845,7 +845,7 @@ height: 30rem;
 
     .firstDiv {
 
-        max-width: 90%;
+        width: 90%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -857,8 +857,8 @@ height: 30rem;
 
 
     .firstDivItem1 {
-        height: auto;
-        width: 95%;
+      
+        min-width: 100%;
         margin-top: 2em;
         margin-bottom: 2em;
 
@@ -928,7 +928,7 @@ height: 30rem;
     .emptyDiv {
 
         width: 90%;
-        padding: 3em;
+        padding: 1em;
         display: flex;
         justify-content: flex-end;
 
